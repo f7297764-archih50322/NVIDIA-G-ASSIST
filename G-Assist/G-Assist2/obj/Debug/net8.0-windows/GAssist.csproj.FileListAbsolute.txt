@@ -1,0 +1,17 @@
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\bin\Debug\net8.0-windows\GAssist.exe
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\bin\Debug\net8.0-windows\GAssist.deps.json
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\bin\Debug\net8.0-windows\GAssist.runtimeconfig.json
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\bin\Debug\net8.0-windows\GAssist.dll
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\bin\Debug\net8.0-windows\GAssist.pdb
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\obj\Debug\net8.0-windows\GAssist.csproj.AssemblyReference.cache
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\obj\Debug\net8.0-windows\GAssist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\obj\Debug\net8.0-windows\GAssist.AssemblyInfoInputs.cache
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\obj\Debug\net8.0-windows\GAssist.AssemblyInfo.cs
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\obj\Debug\net8.0-windows\GAssist.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\obj\Debug\net8.0-windows\GAssist.csproj.Up2Date
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\obj\Debug\net8.0-windows\GAssist.dll
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\obj\Debug\net8.0-windows\refint\GAssist.dll
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\obj\Debug\net8.0-windows\GAssist.pdb
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\obj\Debug\net8.0-windows\GAssist.genruntimeconfig.cache
+C:\Users\Fatih\Downloads\gassir\GAssist\GAssist\obj\Debug\net8.0-windows\ref\GAssist.dll
